@@ -11,7 +11,7 @@
   <h3>🌍 A Global Credit Bureau for Today&apos;s Businesses</h3>
   <p><strong>Getting paid shouldn&apos;t require legal action. Credote holds businesses accountable so you get paid, without the overhead.</strong></p>
   
-  <a href="https://credote.com/overdue" target="_blank">
+  <a href="https://credote.com/overdue" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/📤%20Upload%20Overdue%20Invoice-FREE-red?style=for-the-badge&logoColor=white" alt="Upload Overdue Invoice - FREE">
   </a>
   
@@ -181,7 +181,7 @@ Credote is a **business credit bureau** that scores companies based on payment r
   <h3>🚀 Ready to Get Started?</h3>
   <p>Join thousands of businesses using Credote to get paid and protect their cash flow.</p>
   
-  <a href="https://credote.com" target="_blank">
+  <a href="https://credote.com" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Get%20Started-Free-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started Free">
   </a>
 </div>
