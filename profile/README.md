@@ -17,8 +17,8 @@
   
   <br><br>
   
-  <a href="https://credote.com">🌐 Visit Credote.com</a> | 
-  <a href="mailto:hi@credote.com">📧 Contact Us</a>
+  <a href="https://credote.com" target="_blank" rel="nofollow">🌐 Visit Credote.com</a> | 
+  <a href="mailto:hi@credote.com" target="_blank" rel="nofollow">📧 Contact Us</a>
 </div>
 
 ---
@@ -116,21 +116,21 @@ Credote is a **business credit bureau** that scores companies based on payment r
 ## 📚 Resources & Documentation
 
 ### 📖 **Knowledge Base**
-- [Understanding Credote Score (Business Credit)](https://credote.com/resources/understanding-credote-score-business-credit)
-- [Business Default Public Registry (Explained)](https://credote.com/resources/business-default-public-registry-explained)
-- [How to File a Credit Default Against a Business](https://credote.com/resources/how-to-file-credit-default-against-business)
-- [Small Business Debt Recovery Without a Lawyer](https://credote.com/resources/small-business-debt-recovery-without-lawyer)
-- [How to Get a Business to Pay an Overdue Invoice](https://credote.com/resources/how-to-get-business-to-pay-overdue-invoice)
-- [Can I Report a Business That Didn&apos;t Pay Me?](https://credote.com/resources/can-i-report-business-that-didnt-pay-me)
-- [How to Protect Your Business From Bad Payers](https://credote.com/resources/how-to-protect-business-from-bad-payers)
-- [What Happens if a Business Doesn&apos;t Pay an Invoice?](https://credote.com/resources/what-happens-if-business-doesnt-pay-invoice)
+- <a href="https://credote.com/resources/understanding-credote-score-business-credit" target="_blank" rel="nofollow">Understanding Credote Score (Business Credit)</a>
+- <a href="https://credote.com/resources/business-default-public-registry-explained" target="_blank" rel="nofollow">Business Default Public Registry (Explained)</a>
+- <a href="https://credote.com/resources/how-to-file-credit-default-against-business" target="_blank" rel="nofollow">How to File a Credit Default Against a Business</a>
+- <a href="https://credote.com/resources/small-business-debt-recovery-without-lawyer" target="_blank" rel="nofollow">Small Business Debt Recovery Without a Lawyer</a>
+- <a href="https://credote.com/resources/how-to-get-business-to-pay-overdue-invoice" target="_blank" rel="nofollow">How to Get a Business to Pay an Overdue Invoice</a>
+- <a href="https://credote.com/resources/can-i-report-business-that-didnt-pay-me" target="_blank" rel="nofollow">Can I Report a Business That Didn&apos;t Pay Me?</a>
+- <a href="https://credote.com/resources/how-to-protect-business-from-bad-payers" target="_blank" rel="nofollow">How to Protect Your Business From Bad Payers</a>
+- <a href="https://credote.com/resources/what-happens-if-business-doesnt-pay-invoice" target="_blank" rel="nofollow">What Happens if a Business Doesn&apos;t Pay an Invoice?</a>
 
 ### 🛠️ **API & Tools**
-- [Credote Score by Email](https://credote.com/credit-check-by-email)
-- [Credote Score by Domain](https://credote.com/credit-check-by-domain)
-- [Check Credote Score](https://credote.com/credit-check)
-- [Report Unpaid Invoice](https://credote.com/overdue)
-- [Pricing](https://credote.com/pricing)
+- <a href="https://credote.com/credit-check-by-email" target="_blank" rel="nofollow">Credote Score by Email</a>
+- <a href="https://credote.com/credit-check-by-domain" target="_blank" rel="nofollow">Credote Score by Domain</a>
+- <a href="https://credote.com/credit-check" target="_blank" rel="nofollow">Check Credote Score</a>
+- <a href="https://credote.com/overdue" target="_blank" rel="nofollow">Report Unpaid Invoice</a>
+- <a href="https://credote.com/pricing" target="_blank" rel="nofollow">Pricing</a>
 
 ---
 
