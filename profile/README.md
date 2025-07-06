@@ -11,6 +11,12 @@
   <h3>🌍 A Global Credit Bureau for Today&apos;s Businesses</h3>
   <p><strong>Getting paid shouldn&apos;t require legal action. Credote holds businesses accountable so you get paid, without the overhead.</strong></p>
   
+  <a href="https://credote.com/report-unpaid-invoice" target="_blank">
+    <img src="https://img.shields.io/badge/📤%20Upload%20Overdue%20Invoice-FREE-red?style=for-the-badge&logoColor=white" alt="Upload Overdue Invoice - FREE">
+  </a>
+  
+  <br><br>
+  
   <a href="https://credote.com">🌐 Visit Credote.com</a> | 
   <a href="mailto:hi@credote.com">📧 Contact Us</a>
 </div>
@@ -110,20 +116,22 @@ Credote is a **business credit bureau** that scores companies based on payment r
 ## 📚 Resources & Documentation
 
 ### 📖 **Knowledge Base**
-- [Understanding Credote Score (Business Credit)](https://credote.com)
-- [How to Get a Business to Pay an Overdue Invoice](https://credote.com)
-- [Can I Report a Business That Didn&apos;t Pay Me?](https://credote.com)
-- [How to File a Credit Default Against a Business](https://credote.com)
-- [What Happens if a Business Doesn&apos;t Pay an Invoice?](https://credote.com)
-- [Small Business Debt Recovery Without a Lawyer](https://credote.com)
-- [How to Protect Your Business From Bad Payers](https://credote.com)
-- [Business Default Public Registry (Explained)](https://credote.com)
+- [Understanding Credote Score (Business Credit)](https://credote.com/understanding-credote-score-business-credit)
+- [How to Get a Business to Pay an Overdue Invoice](https://credote.com/how-to-get-a-business-to-pay-an-overdue-invoice)
+- [Can I Report a Business That Didn&apos;t Pay Me?](https://credote.com/can-i-report-a-business-that-didnt-pay-me)
+- [How to File a Credit Default Against a Business](https://credote.com/how-to-file-a-credit-default-against-a-business)
+- [What Happens if a Business Doesn&apos;t Pay an Invoice?](https://credote.com/what-happens-if-a-business-doesnt-pay-an-invoice)
+- [Small Business Debt Recovery Without a Lawyer](https://credote.com/small-business-debt-recovery-without-a-lawyer)
+- [How to Protect Your Business From Bad Payers](https://credote.com/how-to-protect-your-business-from-bad-payers)
+- [Business Default Public Registry (Explained)](https://credote.com/business-default-public-registry-explained)
 
 ### 🛠️ **API & Tools**
-- Credote Score by Email
-- Credote Score by Domain
-- Bulk Credit Checks
-- Integration Documentation
+- [Credote Score by Email](https://credote.com/credote-score-by-email)
+- [Credote Score by Domain](https://credote.com/credote-score-by-domain)
+- [Check Credote Score](https://credote.com/check-credote-score)
+- [Report Unpaid Invoice](https://credote.com/report-unpaid-invoice)
+- [Pricing](https://credote.com/pricing)
+- [Dashboard](https://credote.com/dashboard)
 
 ---
 
